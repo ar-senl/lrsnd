@@ -9,7 +9,6 @@ int main(int argc, char** argv) {
     scanf("%s", str);
     puts("Привет");
     puts(str);
-
     return 0;
 }
 
